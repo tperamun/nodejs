@@ -1,0 +1,15 @@
+{
+  "name": "bank-sytem",
+  "version": "1.0.0",
+  "description": "Banking-system in JS",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timal",
+  "license": "ISC",
+  "dependencies": {
+    "mongod": "^2.0.0",
+    "mongodb": "^3.1.1"
+  }
+}
